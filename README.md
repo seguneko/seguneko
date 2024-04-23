@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @seguneko
-- 👀 I’m interested in Python, Data Science, Go, Reactjs, Nextjs
+- 👀 I’m interested in Python, Data Science, Go, Reactjs, Nextjs, Nestjs
 - 🌱 I’m currently learning Golang and Indept Javascript
 - 📫 How to reach me segun@rhc.one
 - 
